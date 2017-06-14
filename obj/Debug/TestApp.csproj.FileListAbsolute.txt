@@ -1,0 +1,17 @@
+E:\TestProject\TestApp\TestApp\bin\TestApp.dll.config
+E:\TestProject\TestApp\TestApp\bin\TestApp.dll
+E:\TestProject\TestApp\TestApp\bin\TestApp.pdb
+E:\TestProject\TestApp\TestApp\obj\Debug\TestApp.dll
+E:\TestProject\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Work\Manish\TestProject\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Work\Manish\TestProject\TestApp\TestApp\obj\Debug\TestApp.dll
+D:\Work\Manish\TestProject\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Work\Manish\TestProject\TestApp\TestApp\bin\TestApp.dll.config
+D:\Work\Manish\TestProject\TestApp\TestApp\bin\TestApp.dll
+D:\Work\Manish\TestProject\TestApp\TestApp\bin\TestApp.pdb
+E:\working_TestProject\TestProject\TestApp\TestApp\bin\TestApp.dll.config
+E:\working_TestProject\TestProject\TestApp\TestApp\bin\TestApp.dll
+E:\working_TestProject\TestProject\TestApp\TestApp\bin\TestApp.pdb
+E:\working_TestProject\TestProject\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+E:\working_TestProject\TestProject\TestApp\TestApp\obj\Debug\TestApp.dll
+E:\working_TestProject\TestProject\TestApp\TestApp\obj\Debug\TestApp.pdb

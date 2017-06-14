@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/TestApp.dll">
+      <publishTime>06/06/2017 18:16:58</publishTime>
+    </File>
+    <File Include="bin/TestApp.pdb">
+      <publishTime>06/06/2017 18:16:58</publishTime>
+    </File>
+    <File Include="RESTfulTransactionService.svc">
+      <publishTime>06/06/2017 16:17:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2017 18:16:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

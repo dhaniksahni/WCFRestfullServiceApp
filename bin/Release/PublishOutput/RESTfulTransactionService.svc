@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TestApp.RESTfulTransactionService" CodeBehind="RESTfulTransactionService.svc.cs" %>

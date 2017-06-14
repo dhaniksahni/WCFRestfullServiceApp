@@ -1,0 +1,5 @@
+E:\TestProject\TestApp\TestApp\bin\TestApp.dll.config
+E:\TestProject\TestApp\TestApp\bin\TestApp.dll
+E:\TestProject\TestApp\TestApp\bin\TestApp.pdb
+E:\TestProject\TestApp\TestApp\obj\Release\TestApp.dll
+E:\TestProject\TestApp\TestApp\obj\Release\TestApp.pdb
